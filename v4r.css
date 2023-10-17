@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/v4.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/superleggera_v4.jpg");
   background-position: 100% 50%;
 }
 
@@ -955,7 +955,7 @@
     width: 32px;
   }
 } .u-section-4 {
-  background-image: url("images/toyotaLandCruiserv82015exteriortme006bfull_tcm3046565889.jpg");
+  background-image: url("images/v4.jpg");
   background-position: 50% 50%;
 }
 
@@ -1501,36 +1501,6 @@
     margin-left: initial;
     width: auto;
   }
-} .u-section-7 {
-  min-height: 891px;
-}
-
-.u-section-7 .u-image-1 {
-  background-image: url("images/toyotaLandCruiserv82015interiortme014afull_tcm3046502786.jpg");
-  min-height: 446px;
-  background-position: 50% 50%;
-}
-
-.u-section-7 .u-image-2 {
-  background-image: url("images/toyotaLandCruiserv82015interiortme022bfull_tcm3046565894.jpg");
-  min-height: 446px;
-  background-position: 50% 50%;
-}
-
-.u-section-7 .u-image-3 {
-  background-image: url("images/toyotaLandCruiserv82015interiortme021bfull_tcm3046565883.jpg");
-  min-height: 446px;
-  background-position: 100% 50%;
-}
-
-.u-section-7 .u-image-4 {
-  background-image: url("images/toyotaLandCruiserv82015exteriortme023bfull_tcm3046565899.jpg");
-  min-height: 446px;
-  background-position: 0% 50%;
-} .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/toyotaLandCruiserv82015interiortme013afull_tcm3046502784.jpg");
-  background-position: 50% 50%;
-}
 
 .u-section-8 .u-sheet-1 {
   min-height: 543px;
